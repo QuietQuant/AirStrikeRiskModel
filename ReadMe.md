@@ -69,4 +69,24 @@ Contributions are welcome! Feel free to:
 
 We hope this project helps researchers, insurers, and micro-credit providers better understand and manage conflict-related risks.
 
+## Illustrations
 
+Hare are some illustrations of the model's output. The results you will get could greatly differ depending on the data you use and the model's hyperparameters.
+
+### Strike Intensity Heatmap
+
+![strike_intensity.png](examples/strike_intensity.png)
+
+### Conflict Intensity Heatmap
+
+![conflict_intensity.png](examples/conflict_intensity.png)
+
+### GLM probability map
+
+![GLM_proba.png](examples/GLM_proba.png)
+
+### GAM probability map
+
+![GAM_proba.png](examples/GAM_proba.png)
+
+![GAM_proba_strike.png](examples/GAM_proba_strike.png)
